@@ -96,7 +96,7 @@ Robinhood Chain launched its public mainnet on **July 1, 2026**. It is a permiss
 - [Open data exports](https://chain4663.com/data) - CSV/JSON snapshots of registry, state, and events.
 - [REST API](https://chain4663.com/openapi.yaml) - OpenAPI spec for assets, events, actions, verification, and status.
 - [MCP server](https://chain4663.com/llms.txt) - Model Context Protocol endpoint for AI agents (`https://chain4663.com/mcp`).
-- [BlockVectra MCP server](https://docs.blockvectra.com/en/guides/mcp-server/?utm_source=vj1977_awesome_robinhood_chain&utm_medium=directory&utm_campaign=2026-10-robinhood-mcp) - Hosted Streamable HTTP MCP for Robinhood Chain docs, chain discovery and permitted RPC reads; indexed Data API requires an API key.
+- [BlockVectra MCP server](https://docs.blockvectra.com/en/guides/mcp-server/) - Hosted MCP for docs, chain discovery and permitted public RPC reads; indexed Data API needs an API key. [Mainnet RPC guide](https://docs.blockvectra.com/en/guides/robinhood-chain/) · [Testnet starter](https://docs.blockvectra.com/en/guides/robinhood-testnet-starter/).
 - [Address labels](https://chain4663.com/data/address-labels.json) - Canonical and observed-collision label feed.
 
 ## Background & Coverage
